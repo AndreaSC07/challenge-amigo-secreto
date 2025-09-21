@@ -55,3 +55,4 @@ function sortearAmigo() { // se hace el sorteo con los nombres agregdos
   li.textContent = "El amigo secreto sorteado es: " + elegido;
   listaResultado.appendChild(li);
 } 
+
